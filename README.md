@@ -26,8 +26,6 @@
 ```txt
 • Final-year Computer Engineering student @ KMUTT  
 • Pivoting from game dev to full-stack + cloud infrastructure  
-• Building SaaS products with Next.js · tRPC · Prisma · MongoDB  
-• Automating CI/CD & IaC with Docker · GitHub Actions · AWS  
 • Currently deep-diving into ASP.NET Core (C#) and solutions-architect tracks
 ```
 ### 🛠️ Tech Toolbox
@@ -42,4 +40,4 @@
 ### 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bentorrrr&show_icons=true&theme=tokyonight&hide_border=true" alt="stats">&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bentorrrr&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"> </p>
 
-<p align="center"><i>“Stay curious, keep building, and ship fearless.”</i></p> ```
+<p align="center"><i>“Stay curious, keep building, and ship fearless.”</i></p>
