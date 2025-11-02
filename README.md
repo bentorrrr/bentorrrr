@@ -24,8 +24,8 @@
 
 ## 🚀 About&nbsp;Me
 ```txt
-• Final-year Computer Engineering student @ KMUTT  
-• Pivoting from game dev to full-stack + cloud infrastructure  
+• Graduated from Computer Engineering @KMUTT
+• Pivoting from game dev to full-stack + cloud infrastructure
 • Currently deep-diving into ASP.NET Core (C#) and solutions-architect tracks
 ```
 ### 🛠️ Tech Toolbox
