@@ -1,4 +1,6 @@
-<a href="https://github.com/bentorrrr"><img src="https://github.com/bentorrrr.png" width="100" alt="avatar" style="border-radius:50%"></a>
+<p align="center">
+  <a href="https://github.com/bentorrrr"><img src="https://github.com/bentorrrr.png" width="100" alt="avatar" style="border-radius:50%"></a>
+</p>
 
 # Hey, I'm Patcharaphon — a.k.a. **bentorrrr** 👋
 
