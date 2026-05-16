@@ -67,25 +67,25 @@
 
 ---
 
-## 📊 FlowAccount — 10-Month Snapshot (Jun 2025 – Mar 2026)
+## 📊 FlowAccount — 12-Month Snapshot (Jun 2025 – May 2026)
 
 Working across the **Inventory (IV)** and **General Accounting (GACC)** teams at FlowAccount:
 
 | Metric | Count |
 |---|---|
-| Jira Issues Completed | **242+** (192 IV + 50 GACC) |
-| GitHub Pull Requests | **153** (118 merged, 77% merge rate) |
-| Repositories Contributed | **6 repos** |
-| Major Features Delivered | **8+** across IV, GACC, BOQ mini-app |
-| Production Bugs Fixed | **65+** |
+| Jira Issues Completed | **251+** (201 IV + 50 GACC) |
+| GitHub Pull Requests | **185** (149 merged, 80% merge rate) |
+| Repositories Contributed | **7 repos** |
+| Major Features Delivered | **10+** across IV, GACC, BOQ mini-app |
+| Production Bugs Fixed | **70+** |
 | Integration Test Scenarios Written | **20+** |
-| Confluence Pages Created | **21** |
-| Deployment Runbooks Authored | **13** |
+| Confluence Pages Created | **24** |
+| Deployment Runbooks Authored | **16** |
 | Peak Month (Mar 2026) | **40 PRs, 34 merged** across 3 projects simultaneously |
 
-Key features shipped: Remaining Stock system, Partial Purchase Order, Negative Stock validation, Low Stock Alert, Elasticsearch Product Search, Inline Product Creation, BOQ mini-app (Next.js/React), TTB Connect & Bank Reconciliation (GACC).
+Key features shipped: Remaining Stock system, Partial Purchase Order, Negative Stock validation, Low Stock Alert, Elasticsearch Product Search, Inline Product Creation, BOQ mini-app (Next.js/React), TTB Connect & Bank Reconciliation (GACC), Average Sale Price (SSE), Product ES Checksum (Akka actor pipeline).
 
-Performance highlights: Product Lookup Refactoring (Strategy Pattern + Orchestrator) delivered **50–90% faster batch imports**; authored 4 RFC/Tech Solution documents proposing architectural optimisations.
+Performance highlights: Product Lookup Refactoring (Strategy Pattern + Orchestrator) delivered **50–90% faster batch imports**; authored 7 RFC/Tech Solution documents proposing architectural optimisations.
 
 ---
 
