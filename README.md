@@ -1,4 +1,4 @@
-[![avatar](https://github.com/bentorrrr.png)](https://github.com/bentorrrr)
+<a href="https://github.com/bentorrrr"><img src="https://github.com/bentorrrr.png" width="100" alt="avatar" style="border-radius:50%"></a>
 
 # Hey, I'm Patcharaphon — a.k.a. **bentorrrr** 👋
 
