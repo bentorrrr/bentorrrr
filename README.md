@@ -55,6 +55,8 @@
 [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 
+*AI-assisted development: Claude Code*
+
 ---
 
 ## ✨ Highlight Projects
