@@ -91,7 +91,7 @@ Performance highlights: Product Lookup Refactoring (Strategy Pattern + Orchestra
 
 ## 📈 GitHub Stats
 
-[![stats](https://github-readme-stats.vercel.app/api?username=bentorrrr&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/bentorrrr)
+[![streak](https://streak-stats.demolab.com/?user=bentorrrr&theme=tokyonight&hide_border=true)](https://github.com/bentorrrr)
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bentorrrr&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/bentorrrr)
 
 ---
